@@ -2,7 +2,7 @@
 Brand assets and usage guidelines
 
 1. Introduction
-2. Terminology(#-terminology)
+2. [Terminology](#Terminology)
 
 # Terminology
 Before we being, here is the terminology we will be using:
