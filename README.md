@@ -24,6 +24,6 @@ The x serves as the center piece of the logo. The bottom right part of the x ext
 # Fonts
 Mint Grotesk is our primary header font. As stated on the <a href="https://www.futurefonts.xyz/loveletters/mint-grotesk" target="_blank">Future Fonts</a> description, "Mint is a display Grotesk with an eccentric personality."
 
-<img src="https://github.com/xmtp-org/brand/blob/updates/guideassets/logomark@2x.jpg?raw=true">
+<img src="https://github.com/xmtp-org/brand/blob/updates/guideassets/mint@2x.jpg?raw=true">
 
 Guidelines to be added.
