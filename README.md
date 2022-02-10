@@ -27,9 +27,16 @@ A variety of examples of what NOT to do to the logo.
 
 <img src="https://github.com/xmtp-org/brand/blob/updates/guideassets/donotuse@2x.jpg?raw=true">
 
+# Logo Downloads
+These are the official XMTP logos that you can use.
+
+Full Color Horizontal Logo
+<img src="https://github.com/xmtp-org/brand/blob/updates/assets/logomark-color.png?raw=true">
+<a href="https://github.com/xmtp-org/brand/blob/updates/assets/lockup-orange-purple.svg">SVG</a> | <a href="https://github.com/xmtp-org/brand/blob/updates/guideassets/logomark-color.png">PNG</a>
+
 # Fonts
 Mint Grotesk is our primary header font. As stated on the <a href="https://www.futurefonts.xyz/loveletters/mint-grotesk" target="_blank">Future Fonts</a> description, "Mint is a display Grotesk with an eccentric personality."
 
 <img src="https://github.com/xmtp-org/brand/blob/updates/guideassets/mint@2x.jpg?raw=true">
 
-Guidelines to be added.
+More guidelines to be added.
