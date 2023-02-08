@@ -5,8 +5,8 @@ Brand assets and usage guidelines
 2. [Terminology](#Terminology)
 3. [Logo construction](#Logo-Construction)
 4. [Logo Usage](#Logo-Usage)
-5. [Logo Downloads](#Logo-Downloads)
 6. [Fonts](#Fonts)
+5. [Logo Downloads](#Logo-Downloads)
 
 # Logo Construction
 The distance between the x and the inside part of the swoop is one unit (1x). This is used to create the same space between the letters in the wordmark. The XMTP is 1.5x away from the x mark. The space outside of the logomark is 3x (top and bottom, left and right).
