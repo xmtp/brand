@@ -26,8 +26,8 @@ When implementing the XMTP protocol or referencing the protocol in language, it 
 
 Use the provided graphics in-app if a visual representation enhances the experience:
 
-<img src="https://github.com/xmtp-org/brand/blob/updates/guideassets/badgeExample.jpg?raw=true">
-<img src="https://github.com/xmtp-org/brand/blob/updates/guideassets/badgeUseExample.jpg?raw=true">
+<img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeExample.jpg?raw=true">
+<img src="https://github.com/xmtp/brand/blob/updates/guideassets/badgeUseExample.jpg?raw=true">
 
 
 # Logo Construction
