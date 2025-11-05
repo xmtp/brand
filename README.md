@@ -13,7 +13,7 @@ Brand assets and usage guidelines
 When talking about the features of the XMTP protocol, these are the specific terms to use:
 
 - Open-source
-- Censorship-resistant
+- Censorship resistant
 - Quantum resistant
 - No private server
 
