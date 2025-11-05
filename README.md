@@ -14,7 +14,7 @@ When talking about the features of the XMTP protocol, these are the specific ter
 
 - Open-source
 - Censorship-resistant
-- Post-quantum secure
+- Quantum resistant
 - No private server
 
 The XMTP protocol brings the same security gurantees as Signal and both are audited by the same firm.
