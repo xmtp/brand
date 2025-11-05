@@ -1,12 +1,34 @@
 # Welcome to the XMTP Brand Guidelines
 Brand assets and usage guidelines
 
-1. [Logotype Construction](#Logotype-Construction)
-2. [Terminology](#Terminology)
-3. [Logo construction](#Logo-Construction)
-4. [Logo Usage](#Logo-Usage)
+1. [Language](#Language)
+2. [Logotype Construction](#Logotype-Construction)
+3. [Terminology](#Terminology)
+4. [Logo construction](#Logo-Construction)
+5. [Logo Usage](#Logo-Usage)
 6. [Fonts](#Fonts)
-5. [Logo Downloads](#Logo-Downloads)
+7. [Logo Downloads](#Logo-Downloads)
+
+# Language
+When talking about the features of the XMTP protocol, these are the specific terms to use:
+
+- Open-source
+- Censorship-resistant
+- Post-quantum secure
+- No private server
+
+The XMTP protocol brings the same security gurantees as Signal and both are audited by the same firm.
+
+## Integration Language
+When implementing the XMTP protocol or referencing the protocol in language, it should read as:
+
+*Secured by XMTP*
+
+Use the provided graphics in-app if a visual representation enhances the experience:
+
+<img src="https://github.com/xmtp-org/brand/blob/updates/guideassets/badgeExample.jpg?raw=true">
+<img src="https://github.com/xmtp-org/brand/blob/updates/guideassets/badgeUseExample.jpg?raw=true">
+
 
 # Logo Construction
 The distance between the x and the inside part of the swoop is one unit (1x). This is used to create the same space between the letters in the wordmark. The XMTP is 1.5x away from the x mark. The space outside of the logomark is 3x (top and bottom, left and right).
