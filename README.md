@@ -26,7 +26,7 @@ When implementing the XMTP protocol or referencing the protocol in language, it 
 
 *Secured by XMTP*
 
-Use the provided graphics in-app:
+Use the provided graphics and treatments in-app:
 
 *Vertical*
 
