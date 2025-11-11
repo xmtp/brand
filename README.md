@@ -22,13 +22,20 @@ The XMTP protocol brings the same security gurantees as Signal and both are audi
 ## Integration Language
 When implementing the XMTP protocol or referencing the protocol in language, it should read as:
 
-*Secured by XMTP*
+<img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InText.jpg?raw=true">
 
 Use the provided graphics in-app if a visual representation enhances the experience:
+
+*Vertical*
 
 <img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeExample.jpg?raw=true">
 <img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExample.jpg?raw=true">
 
+*Horizontal*
+
+<img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeExampleHorizontal.jpg?raw=true">
+<img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal.jpg?raw=true">
+<img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InApp.jpg?raw=true">
 
 # Logo Construction
 The distance between the x and the inside part of the swoop is one unit (1x). This is used to create the same space between the letters in the wordmark. The XMTP is 1.5x away from the x mark. The space outside of the logomark is 3x (top and bottom, left and right).
