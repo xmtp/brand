@@ -24,6 +24,8 @@ When implementing the XMTP protocol or referencing the protocol in language, it 
 
 <img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InText.jpg?raw=true">
 
+*Secured by XMTP*
+
 Use the provided graphics in-app:
 
 *Vertical*
