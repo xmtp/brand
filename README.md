@@ -40,6 +40,7 @@ Use the provided graphics and treatments in-app:
 
 <img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InText.jpg?raw=true">
 <img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InApp.jpg?raw=true">
+<img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InAppAlt.jpg?raw=true">
 
 # Logo Construction
 The distance between the x and the inside part of the swoop is one unit (1x). This is used to create the same space between the letters in the wordmark. The XMTP is 1.5x away from the x mark. The space outside of the logomark is 3x (top and bottom, left and right).
