@@ -22,8 +22,6 @@ The XMTP protocol brings the same security gurantees as Signal and both are audi
 ## Integration Language
 When implementing the XMTP protocol or referencing the protocol in language, it should read as:
 
-<img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InText.jpg?raw=true">
-
 *Secured by XMTP*
 
 Use the provided graphics and treatments in-app:
@@ -37,6 +35,10 @@ Use the provided graphics and treatments in-app:
 
 <img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeExampleHorizontal.jpg?raw=true">
 <img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal.jpg?raw=true">
+
+*Recommended uses in-app*
+
+<img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InText.jpg?raw=true">
 <img src="https://github.com/xmtp/brand/blob/main/guideassets/badgeUseExampleHorizontal-InApp.jpg?raw=true">
 
 # Logo Construction
